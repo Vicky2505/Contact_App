@@ -1,16 +1,36 @@
-# contacts_app
+# 📇 Contact App
 
-A new Flutter project.
+A **Flutter-powered** contact manager with a sleek, animated interface. Effortlessly **add, edit, delete, and search** your contacts, and enjoy full **light / dark theme** support out-of-the-box.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 📒 **Add, Edit & Delete** contacts
+- 🔍 **Smart Search** with instant filtering
+- 🎨 **Light & Dark** theme support (follows system)
+- ✨ **Modern, animated UI** (Material 3, smooth transitions)
+- ⚙️ **BLoC** state management & clean architecture
+- 🎞️ **Lottie** animations (empty list, no results, delete confirm)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📷 App Preview
+![Contact App UI](https://github.com/Vicky2505/Contact_App/blob/main/assets/image/preview_app.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📥 Installation & Setup
+Follow these simple steps to get started:
+
+```sh
+# Clone the repository
+git clone https://github.com/Vicky2505/Contact_App.git
+
+# Navigate to the project folder
+cd Contact_App   # or cd contact_app if you renamed locally
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
